@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\DRAVYA\Published files</_PublishTargetUrl>
+    <History>False|2025-01-16T06:17:09.3917990Z;False|2025-01-16T11:59:35.5550856+05:45;False|2025-01-16T11:58:16.6053875+05:45;True|2025-01-16T11:53:06.8781252+05:45;True|2025-01-16T11:50:02.7325711+05:45;True|2025-01-09T16:03:36.2963291+05:45;True|2025-01-09T15:58:21.6941470+05:45;False|2025-01-09T15:57:06.7494882+05:45;False|2025-01-09T15:56:20.8763924+05:45;False|2025-01-09T15:55:10.0342434+05:45;True|2025-01-09T15:47:22.0515754+05:45;True|2024-12-23T10:00:50.1475629+05:45;True|2024-12-23T09:32:17.1802744+05:45;True|2024-12-23T09:20:11.1260219+05:45;True|2024-12-23T08:54:46.8502784+05:45;True|2024-12-23T08:53:34.8732805+05:45;True|2024-12-23T08:24:23.9042852+05:45;True|2024-12-22T16:09:29.2296121+05:45;True|2024-12-22T15:31:23.9154886+05:45;True|2024-12-17T17:21:05.1690912+05:45;True|2024-12-17T17:02:40.1179118+05:45;True|2024-12-17T15:50:33.5994149+05:45;True|2024-12-17T12:36:35.7751025+05:45;True|2024-12-17T12:31:53.2509559+05:45;True|2024-12-17T12:27:51.9408083+05:45;True|2024-12-17T11:59:50.1589187+05:45;True|2024-12-17T11:52:59.9195224+05:45;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="connectionString">
+      <Value>Server=45.117.153.128%3bDatabase=NetrVerseAccounting%3bUser Id=sa%3bPassword=NetraVerse%40123%3bTrustServerCertificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
